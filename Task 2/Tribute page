@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute Page</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body class="bg"background="https://s.wsj.net/public/resources/images/BN-OI227_ALIGAY_P_20160603193909.jpg">
+    <div class="name" >
+        <h3 class="name1">MUHAMMAD ALI</h3>
+        <h1 class="dob">1942-2016</h1>
+        <h2 class="name2">----FLOAT LIKE A BUTTERFLY STING LIKE A BEE----</h2>
+
+        <p class ="para">Muhammad Ali (1942-2016) was an American former heavyweight champion boxer and
+             one of the greatest sporting figures of the 20th century. An Olympic gold medalist and the 
+             first fighter to capture the heavyweight title three times, Ali won 56 times in his 21-year professional career.
+              "The Greatest", he is widely regarded as one of the most significant and celebrated sports figures of the 20th century, 
+              and is frequently ranked as the greatest heavyweight boxer of all time.
+        </p>
+
+    </div>
+</body>
+</html> 
