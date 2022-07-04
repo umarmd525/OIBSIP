@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body,
+  html {
+    height: 100%;
+    overflow: hidden;
+  }
+  .bg {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+  }
+  .name {
+    text-align: center;
+    justify-content: center;
+    margin-top: 35cm;
+  }
+  .name1 {
+    font-size: 150px;
+    color: rgb(245, 237, 240);
+    font-family: 'JetBrains Mono', monospace;
+  }
+  .name2 {
+    font-size: 75px;
+    color: rgb(237, 207, 15);
+    font-family: 'JetBrains Mono', monospace;
+  }
+  .dob {
+    font-size: 50px;
+    color: rgb(17, 19, 18);
+    font-family: 'JetBrains Mono', monospace;
+  }
+  .para {
+    font-size: 60px;
+    color: rgb(240, 236, 236);
+    font-family: 'JetBrains Mono', monospace;
+    opacity: 1;
+  }
